@@ -1,0 +1,8 @@
+[29-Sep-2021 16:27:00 UTC] PHP Warning:  include(../../inic/dbcon.php): failed to open stream: No such file or directory in /home/frenosko/public_html/admin/index.php on line 2
+[29-Sep-2021 16:27:00 UTC] PHP Warning:  include(): Failed opening '../../inic/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/frenosko/public_html/admin/index.php on line 2
+[29-Sep-2021 16:32:13 UTC] PHP Warning:  include(../../inic/dbcon.php): failed to open stream: No such file or directory in /home/frenosko/public_html/admin/index.php on line 2
+[29-Sep-2021 16:32:13 UTC] PHP Warning:  include(): Failed opening '../../inic/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/frenosko/public_html/admin/index.php on line 2
+[01-Oct-2021 06:05:56 UTC] PHP Warning:  include(../../inic/dbcon.php): failed to open stream: No such file or directory in /home/frenosko/public_html/admin/index.php on line 2
+[01-Oct-2021 06:05:56 UTC] PHP Warning:  include(): Failed opening '../../inic/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/frenosko/public_html/admin/index.php on line 2
+[01-Oct-2021 06:06:31 UTC] PHP Warning:  include(../../inic/dbcon.php): failed to open stream: No such file or directory in /home/frenosko/public_html/admin/index.php on line 2
+[01-Oct-2021 06:06:31 UTC] PHP Warning:  include(): Failed opening '../../inic/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/frenosko/public_html/admin/index.php on line 2

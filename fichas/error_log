@@ -1,0 +1,95 @@
+[11-Sep-2021 08:20:18 America/Caracas] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[11-Sep-2021 08:21:36 America/Caracas] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[11-Sep-2021 08:22:08 America/Caracas] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[11-Sep-2021 08:23:41 America/Caracas] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[11-Sep-2021 17:59:20 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/sublineas.php on line 172
+[12-Sep-2021 17:22:34 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[13-Sep-2021 08:42:38 America/Caracas] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[13-Sep-2021 08:43:01 America/Caracas] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[13-Sep-2021 10:55:41 America/Caracas] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/frenosko/public_html/inic/dbcon.php on line 5
+[13-Sep-2021 10:55:41 America/Caracas] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3124063 in /home/frenosko/public_html/inic/dbcon.php on line 5
+[13-Sep-2021 10:55:41 America/Caracas] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/frenosko/public_html/inic/dbcon.php on line 5
+[14-Sep-2021 09:11:35 America/Caracas] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[14-Sep-2021 09:12:33 America/Caracas] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[14-Sep-2021 09:29:53 America/Caracas] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[14-Sep-2021 09:33:44 America/Caracas] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[14-Sep-2021 11:23:09 America/Caracas] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/frenosko/public_html/inic/dbcon.php on line 5
+[14-Sep-2021 11:23:09 America/Caracas] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=1248185 in /home/frenosko/public_html/inic/dbcon.php on line 5
+[14-Sep-2021 11:23:09 America/Caracas] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/frenosko/public_html/inic/dbcon.php on line 5
+[15-Sep-2021 09:47:06 America/Caracas] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[15-Sep-2021 09:48:09 America/Caracas] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[16-Sep-2021 06:05:33 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/categorias_destacadas.php on line 172
+[20-Sep-2021 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[20-Sep-2021 15:53:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[20-Sep-2021 15:53:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[20-Sep-2021 16:00:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[20-Sep-2021 16:01:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[20-Sep-2021 16:02:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[20-Sep-2021 16:05:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[20-Sep-2021 16:05:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[20-Sep-2021 19:36:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/lineas.php on line 172
+[21-Sep-2021 00:31:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[21-Sep-2021 12:59:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[21-Sep-2021 13:03:13 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[22-Sep-2021 15:44:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[22-Sep-2021 20:21:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[22-Sep-2021 20:22:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Sep-2021 12:09:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[23-Sep-2021 12:09:50 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[24-Sep-2021 12:05:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[24-Sep-2021 12:07:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[24-Sep-2021 13:28:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/frenosko/public_html/inic/dbcon.php on line 5
+[24-Sep-2021 13:32:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/frenosko/public_html/inic/dbcon.php on line 5
+[25-Sep-2021 12:26:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[25-Sep-2021 12:29:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[27-Sep-2021 12:08:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[27-Sep-2021 12:08:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[29-Sep-2021 12:07:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[29-Sep-2021 12:08:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[29-Sep-2021 12:08:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[29-Sep-2021 12:10:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[29-Sep-2021 12:14:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[29-Sep-2021 12:15:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[30-Sep-2021 01:08:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[30-Sep-2021 11:48:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[30-Sep-2021 11:50:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[30-Sep-2021 18:04:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[01-Oct-2021 14:52:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[01-Oct-2021 14:55:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[01-Oct-2021 15:00:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[01-Oct-2021 15:00:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[01-Oct-2021 22:22:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/frenosko/public_html/inic/dbcon.php on line 5
+[02-Oct-2021 13:45:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[02-Oct-2021 13:47:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[02-Oct-2021 15:15:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/division.php on line 172
+[02-Oct-2021 20:36:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/categorias_destacadas.php on line 172
+[04-Oct-2021 11:18:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[04-Oct-2021 11:20:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[05-Oct-2021 13:34:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[05-Oct-2021 13:37:21 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[06-Oct-2021 11:53:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[06-Oct-2021 11:54:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[07-Oct-2021 11:43:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[07-Oct-2021 11:53:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[07-Oct-2021 11:55:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[08-Oct-2021 12:30:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[08-Oct-2021 12:32:31 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[08-Oct-2021 12:36:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[09-Oct-2021 12:55:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[09-Oct-2021 13:11:52 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[11-Oct-2021 06:06:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[11-Oct-2021 06:06:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[11-Oct-2021 06:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[11-Oct-2021 06:06:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[11-Oct-2021 06:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[11-Oct-2021 06:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/detalles-pro.php on line 10
+[11-Oct-2021 10:58:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[11-Oct-2021 11:01:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[12-Oct-2021 12:17:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[12-Oct-2021 12:18:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[13-Oct-2021 11:31:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[13-Oct-2021 11:35:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45
+[13-Oct-2021 11:35:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/frenosko/public_html/fichas/procesar_pedido.php on line 57
+[13-Oct-2021 23:48:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/frenosko/public_html/fichas/categorias_destacadas.php on line 172
+[14-Oct-2021 11:58:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/frenosko/public_html/fichas/carrito-total.php on line 20
+[14-Oct-2021 11:59:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/frenosko/public_html/js/PHPMailer-master/PHPMailerAutoload.php on line 45

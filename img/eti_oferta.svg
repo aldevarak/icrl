@@ -1,0 +1,43 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48.1473 33.4583">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #995c04;
+      }
+
+      .cls-2 {
+        fill: #e08c05;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_15);
+      }
+
+      .cls-4 {
+        font-size: 12.97764px;
+        fill: #fff;
+        font-family: QUARTZO demo;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: -1px;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_15" data-name="Degradado sin nombre 15" x1="13.73617" y1="34.65673" x2="39.57547" y2="-5.13229" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf6500"/>
+      <stop offset="0.50251" stop-color="#e9a300"/>
+      <stop offset="1" stop-color="#bf6500"/>
+    </linearGradient>
+  </defs>
+  <title>eti_oferta</title>
+  <g>
+    <polygon class="cls-1" points="0.25 25.928 0.25 6.402 6.311 3.845 6.311 30.343 0.25 25.928"/>
+    <path class="cls-2" d="M6.06044,4.22134V29.8512L0.5,25.8V6.56758L6.06044,4.22134m0.5-.75366L0,6.23586v19.8185l6.56044,4.77975V3.46767h0Z"/>
+  </g>
+  <g>
+    <polygon class="cls-3" points="0.25 25.899 0.25 4.31 47.897 0.272 47.897 33.167 0.25 25.899"/>
+    <path class="cls-2" d="M47.6473,0.54416V32.87625L0.5,25.68429V4.53969L47.6473,0.54416M48.1473,0L0,4.08028V26.1138l48.1473,7.3445V0h0Z"/>
+  </g>
+  <text class="cls-4" transform="translate(3.28033 21.12104)">Of<tspan x="16.13086" y="0">e</tspan><tspan x="22.03564" y="0">r</tspan><tspan class="cls-5" x="28.13525" y="0">t</tspan><tspan x="32.68994" y="0">a</tspan></text>
+</svg>

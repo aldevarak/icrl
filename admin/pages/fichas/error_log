@@ -1,0 +1,5 @@
+[13-Sep-2021 10:55:41 America/Caracas] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/frenosko/public_html/inic/dbcon.php on line 5
+[13-Sep-2021 10:55:41 America/Caracas] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=3124255 in /home/frenosko/public_html/inic/dbcon.php on line 5
+[13-Sep-2021 10:55:41 America/Caracas] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/frenosko/public_html/inic/dbcon.php on line 5
+[13-Sep-2021 10:55:42 America/Caracas] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/frenosko/public_html/inic/dbcon.php on line 5
+[28-Sep-2021 16:09:54 UTC] PHP Parse error:  Invalid numeric literal in /home/frenosko/public_html/admin/pages/fichas/ficha_pro_vendidos.php on line 15

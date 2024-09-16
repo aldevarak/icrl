@@ -1,0 +1,41 @@
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+.container {width:970px}
+.left-category-menu ul li:hover .left-cat-dropdown {
+  left: 214px;
+}
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.container {width:750px}
+.left-cat-dropdown {
+  left: 0;
+}
+.left-category-menu ul li:hover .left-cat-dropdown {
+  left: 0;
+  top: 70px;
+}
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+.left-category-menu-area {
+  display: none;
+}
+.cont_back_cat_des{
+	padding:5px;
+	}
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
+ 
